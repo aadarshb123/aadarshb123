@@ -1,4 +1,4 @@
-# Hi there, I'm Aadarsh 👋
+# Hi, I'm Aadarsh 👋
 ## SWE Intern @ Cisco Meraki | CS @ Georgia Tech
 
 <div align="center">
