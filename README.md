@@ -61,7 +61,6 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Clerk-003D5E.svg?style=flat-square&logo=clerk"/>
     </td>
   </tr>
 
