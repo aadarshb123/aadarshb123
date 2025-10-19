@@ -21,12 +21,6 @@
   />
 </p>
 
-## ➡️ About Me
-
-- 👋 Hi, I'm Aadarsh! I'm a full-stack/AI developer.
-- 🎓 CS @ Georgia Tech
-- 🎯 I enjoy building new things!
-
 ## ✅ Languages and Frameworks
 
 <table>
