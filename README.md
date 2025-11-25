@@ -10,11 +10,6 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=aadarshb123&show_icons=true&theme=tokyonight" 
-    alt="Aadarsh's GitHub stats" 
-    height="150"
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshb123&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="150"
