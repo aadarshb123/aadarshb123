@@ -8,14 +8,6 @@
   
 </div>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshb123&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    height="150"
-  />
-</p>
-
 ## Languages and Frameworks
 
 <table>
