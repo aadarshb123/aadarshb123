@@ -7,7 +7,6 @@
   ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
   
 </div>
-
 ## Languages and Frameworks
 
 <table>
