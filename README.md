@@ -1,12 +1,5 @@
 # Hi, I'm Aadarsh 
-## SWE Intern @ Cisco Meraki | CS @ Georgia Tech
 
-<div align="center">
-  
-  ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
-  ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
-  
-</div>
 ## Languages and Frameworks
 
 <table>
@@ -66,7 +59,7 @@
   </tr>
 </table>
 
-## Connect with me!!
+## Connect with me!
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/aadarshb123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-bat/)
