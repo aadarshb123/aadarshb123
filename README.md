@@ -2,12 +2,9 @@
 ## SWE Intern @ Cisco Meraki | CS @ Georgia Tech
 
 <div align="center">
-  
   ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
   ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
-  
 </div>
-
 ## Languages and Frameworks
 
 <table>
